@@ -19,22 +19,26 @@ Img {
     margin-left: auto;
     margin-right: auto;
 }
-h2{ 
+
+h2 {
     text-align: center;
     color: maroon;
     font-size: 30px;
-    }
+}
 
-.one{ text-align: center;
-color: black;
-font-size: 25px;
+.different {
+    color: black;
 }
-p{
-color: black ;
-font-size: 24px;
-}
-.love{ color: crimson
 
+p {
+    color: black;
+    font-size: 24px;
 }
-.music{ color: green;
+
+.love {
+    color: crimson
+}
+
+.music {
+    color: green;
 }
