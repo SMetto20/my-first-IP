@@ -18,6 +18,8 @@ Img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border:12px solid rgb(19, 16, 1);
+
 }
 
 h2 {
@@ -54,3 +56,9 @@ body { background-image:url(../images/cream1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     } 
+
+.parent-container{
+        border:5px solid rgb(243, 240, 221);
+        padding:5vh ;
+        width: 100;
+    }
