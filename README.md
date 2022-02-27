@@ -7,3 +7,17 @@ By Sandra Metto
 4. <a href="#Descreption-ids">Author's info</a>
 ### Description
 This project displays the landing page of my portfolio
+### Tecnology used
+1. Html
+2. Css
+
+```Html 
+<image src="" alt="">
+
+```
+
+```css
+h1{
+
+}
+```
