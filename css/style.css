@@ -1,11 +1,21 @@
-*{
+* {
     box-sizing: border-box;
     padding: 0%;
     margin: 0%;
-    }
- *{
-        font-family: manospace ;
-     }
-     h1{
-        text-align: center;
-        }
+}
+
+* {
+    font-family: manospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+Img {
+    width: 700px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
