@@ -5,3 +5,5 @@ By Sandra Metto
 2. <a href="#Descreption-ids">Technology used</a>
 3. <a href="#Descreption-ids">License</a>
 4. <a href="#Descreption-ids">Author's info</a>
+### Description
+This project displays the landing page of my portfolio
