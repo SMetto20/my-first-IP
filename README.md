@@ -7,7 +7,7 @@ By Sandra Metto
 4. [About-author](#about-athor)
 ### Description
 This project displays the landing page of my portfolio
-### Tecnology used
+### Technology
 1. Html
 2. Css
 
@@ -21,8 +21,8 @@ h1{
 
 }
 ```
-### license
-MIT LICENSE (https://github.com/SMetto20/my-first-IP/blob/main/LICENSE)
+### License
+[MIT LICENSE](https://github.com/SMetto20/my-first-IP/blob/main/LICENSE)
 
-### About author
+### About-author
 Linked in- [Sandra Metto] (https://www.linkedin.com/in/sandra-metto-68500319a/)
