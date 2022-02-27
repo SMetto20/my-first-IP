@@ -21,3 +21,8 @@ h1{
 
 }
 ```
+### license
+MIT LICENSE (https://github.com/SMetto20/my-first-IP/blob/main/LICENSE)
+
+### About author
+Linked in- [Sandra Metto] (https://www.linkedin.com/in/sandra-metto-68500319a/)
