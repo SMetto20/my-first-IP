@@ -2,9 +2,9 @@
 By Sandra Metto
 ## Table of contents
 1. [Description](#description)
-2. [Technology] (#technology)
-3. [License] (#License)
-4. [About author] (#about athor)
+2. [Technology](#technology)
+3. [License](#License)
+4. [About-author](#about-athor)
 ### Description
 This project displays the landing page of my portfolio
 ### Tecnology used
