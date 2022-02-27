@@ -49,3 +49,8 @@ p {
 h3{ color:forestgreen;
 
 }
+
+body { background-image:url(../images/cream1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    } 
