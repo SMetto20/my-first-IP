@@ -54,3 +54,9 @@ body { background-image:url(../images/cream1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     } 
+    .parent-container{ width:100%;
+        border: 10px blue;
+        padding: 0;
+
+    }
+    
