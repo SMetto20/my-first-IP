@@ -24,8 +24,8 @@ h1{
 }
 ```
 ### Installation
-Requirments
-Installation process
+1. Requirments
+2. Installation process
 
 ### Website
 
